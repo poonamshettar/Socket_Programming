@@ -6,6 +6,12 @@ To clone this repository to your local machine, run the following command in you
 ```bash
 git clone https://github.com/poonamshettar/Socket_Programming
 ```
+To build run the following command
 ```bash
 make
 ```
+To clean the build artifacts
+```bash
+make clean
+```
+
